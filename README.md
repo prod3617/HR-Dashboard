@@ -15,6 +15,8 @@
 ### Project Description
 The project aims to create a comprehensive dashboard to analyze human resource data to generate insights about the employees who are working and terminated. It also provides employees details records to perform in-depth analysis by applying the different filter options. 
 
+![HR DashBoard Image](./HR%20DashBoard.png)
+
 
 ### Data Source
 - Human Resources Data: The data is available in the "HumanResources.csv" file which contains all the information about the employees in the company.
